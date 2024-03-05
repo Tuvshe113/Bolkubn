@@ -1,9 +1,9 @@
 
-public class HelloWorld {
+public class Ambuna {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("mognol");
+		System.out.println("ASDFLKJSAJDFL;KAJDFLSADFLKJSADKKKK");
 
 	}
 
